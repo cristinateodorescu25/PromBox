@@ -2237,6 +2237,22 @@ h6 {
   .button-group-area .genric-btn:last-child {
     margin-right: 0; }
 
+.hover-animation {
+  margin-top: -50%;
+  position: relative;
+}
+
+.hover-animation img {
+  position: absolute;
+  left: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.hover-animation img.img-front:hover {
+  opacity: 0;
+  cursor: pointer;
+}
+
 .genric-btn {
   display: inline-block;
   outline: none;
