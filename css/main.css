@@ -12,7 +12,7 @@
   color: #fff; }
 
 ::selection {
-  background-color: #7c32ff;
+  background-color: #fedbd0;
   color: #fff; }
 
 ::-webkit-input-placeholder {
@@ -153,7 +153,7 @@ h5,
 h6,
 .h6 {
   font-size: 14px;
-  color: #212121; }
+  color: #442c2e; }
 
 td,
 th {
@@ -660,11 +660,11 @@ th {
         display: none; } }
 
 .gradient-bg, .registration-area .course-form-section .btn, .course-details-left .course-list li .btn:hover, .right-contents .btn.enroll, .contact-page-area .form-area .btn, .top-category-widget-area .single-cat-widget:hover .overlay-bg, .post-content-area .single-post .primary-btn:hover, .blog-pagination .page-item.active .page-link, .blog-pagination .page-link:hover, .widget-wrap .newsletter-widget .bbtns, .comment-form .btn {
-  background: -webkit-linear-gradient(90deg, #0100ca 0%, #a255ff 100%);
-  background: -moz-linear-gradient(90deg, #0100ca 0%, #a255ff 100%);
-  background: -o-linear-gradient(90deg, #0100ca 0%, #a255ff 100%);
-  background: -ms-linear-gradient(90deg, #0100ca 0%, #a255ff 100%);
-  background: linear-gradient(90deg, #0100ca 0%, #a255ff 100%); }
+  background: -webkit-linear-gradient(90deg, #442c2e 0%, #fedbd0 100%);
+  background: -moz-linear-gradient(90deg, #442c2e 0%, #fedbd0 100%);
+  background: -o-linear-gradient(90deg, #442c2e 0%, #fedbd0 100%);
+  background: -ms-linear-gradient(90deg, #442c2e 0%, #fedbd0 100%);
+  background: linear-gradient(90deg, #442c2e 0%, #fedbd0 100%); }
 
 .gradient-bg-reverse, #search-input-box, .footer-area .single-footer-widget .click-btn, .footer-area .footer-bottom .footer-social a:hover {
   background: -webkit-linear-gradient(270deg, #651fff 0%, #651fff 100%);
@@ -3111,7 +3111,7 @@ h6 {
       color: #fff; }
     .footer-area .footer-bottom a,
     .footer-area .footer-bottom span {
-      color: #651fff; }
+      color: #fedbd0; }
     .footer-area .footer-bottom span {
       font-weight: 700; }
     .footer-area .footer-bottom .footer-social {
