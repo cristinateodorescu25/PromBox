@@ -825,7 +825,7 @@ th {
   background: #212121; }
 
 .home-banner-area {
-  background: url(../img/home-banner-bg2.png) no-repeat;
+  background: url(../img/home-banner-bg.png) no-repeat;
   background-size: cover;
   background-position: center center;
   max-height: 1200px; }
@@ -1072,7 +1072,7 @@ th {
 /* Start Video Area
 =========================================================================================== */
 .video-area {
-  background: url(../img/video-area-bg2.png) no-repeat center; }
+  background: url(../img/video-area-bg.png) no-repeat center; }
   @media (max-width: 991px) {
     .video-area {
       background: #828bb2;
@@ -1236,7 +1236,7 @@ th {
     margin-bottom: 0; }
 
 .registration-area {
-  background: url(../img/registration-bg2.png) no-repeat center;
+  background: url(../img/registration-bg.png) no-repeat center;
   padding: 157px 0px; }
   @media (max-width: 991px) {
     .registration-area {
